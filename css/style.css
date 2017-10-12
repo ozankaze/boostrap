@@ -1,0 +1,28 @@
+body {
+	font-family: 'Lato', sans-serif;
+
+}
+.hero {
+	background-color: #d16666;
+	padding: 80px 0;
+	text-align: center;
+	position: relative;
+
+}
+.hero img {
+	width: 330px;
+
+}
+.hero p {
+	position: absolute;
+    left: 57%;
+    bottom: 24%;
+}
+/* hero-header */
+.hero-header {
+	padding: 80px 0;
+	background-color: lightblue;
+}
+.hero-header p {
+	font-size: 20px;
+}
